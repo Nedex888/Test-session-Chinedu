@@ -1,0 +1,6 @@
+.env
+.env.*
+.dev.vars
+*.csv
+idea/
+work/
