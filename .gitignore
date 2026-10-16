@@ -4,3 +4,5 @@
 *.csv
 idea/
 work/
+node_modules/
+.wrangler/
